@@ -1,1 +1,1 @@
-github
+This project's object is to study and develop mechanisms to address the problem of large Internet data collections classification/clustering. Existing algorithms will also be examined relating to the classification/clustering of large collections of Web objects (websites, blog posts, social media posts etc) with traditional textual analysis algorithms in the information retrieval field but also with methods of structure identification/representation.  
