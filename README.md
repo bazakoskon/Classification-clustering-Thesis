@@ -1,6 +1,6 @@
-# Addition of ground truth labels on Amazon movie reviews dataset
+# Τεχνικές Ταξινόμησης/Συσταδοποίησης Μεγάλων Συλλογών Διαδικτυακών Δεδομένων
 
-![Image]([Imgur](http://i.imgur.com/RZ4tj32.png))
+![Image](http://i.imgur.com/RZ4tj32.png)
 
 ## Περίληψη
 
