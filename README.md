@@ -9,8 +9,8 @@
 - Ταξινόμηση στο Amazon movie reviews Dataset ```chapter4_2_2.ipynb```
 - Η μέθοδος Latent Dirichlet Allocation (Topic model) ```chapter4_3_1.ipynb```
 
-**Η μέθοδος συσταδοποίησης μέσω μασκών/πινάκων συνάφειας βρίσκεται στο αρχείο ```chapter4_2_2.ipynb```**
+Η μέθοδος συσταδοποίησης μέσω μασκών/πινάκων συνάφειας βρίσκεται στο αρχείο ```chapter4_2_2.ipynb```
 
 Σχόλια και παρατηρήσεις ευπρόσδεκτα.
 
-_Σχετικό project εμπλουτισμού του Amazon movie reviews Dataset με groung truth labels [εδώ](https://github.com/bazakoskon/labels-on-Amazon-movie-reviews-dataset)._
+_Σχετικό project εμπλουτισμού του Amazon movie reviews Dataset με ground truth labels [εδώ](https://github.com/bazakoskon/labels-on-Amazon-movie-reviews-dataset)._
